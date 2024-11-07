@@ -28,9 +28,9 @@
 
 根据用户的不同平台需求，以下是一些广泛支持机场订阅的客户端工具：
 
-- **Windows**：[Clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe)、Mihomo-Party、FLClash和Hiddify
-- **Mac**：Mihomo-Party、[Clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg)、ClashX、ClashX Pro，有预算的话可以尝试Surge
-- **iOS**：小火箭（Shadowrocket）、QuantumultX、Stash、Loon，进阶用户可选择Surge
-- **Android**：ClashMetaforAndroid(CMFA)、FLClash、Hiddify、Surfboard、V2rayNG
+- **Windows**：[Clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe)、[Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party/releases)、[FLClash](https://github.com/chen08209/FlClash)和[Hiddify](https://github.com/hiddify/hiddify-app)
+- **Mac**：[Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party/releases)、[Clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg)、[ClashX](https://github.com/bannedbook/ClashX/releases)，有预算的话可以尝试[Surge](https://nssurge.com/)
+- **iOS**：[小火箭](https://apps.apple.com/us/app/shadowrocket/id932747118)、[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)、[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)，进阶用户可选择[Surge](https://nssurge.com/)
+- **Android**：[ClashMetaforAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)、[FLClash](https://github.com/chen08209/FlClash)、[Hiddify](https://github.com/hiddify/hiddify-app)
 - **Linux**：Shell clash、Clash For Windows、clash-verge-rev、FLClash
 - **路由器**：OpenWRT的OpenClash、Passwall
