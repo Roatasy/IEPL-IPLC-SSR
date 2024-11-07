@@ -41,6 +41,7 @@
 
 移动电信联通三线，广港移动 IEPL专线 / 广港电信 IEPL 专线 / 广港联通 IEPL 专线 / 沪日电信 IPLC 专线 / 。总带宽 7Gbps，带宽剩余足够。自研主题，美观不失好用
 高级套餐可使用落地直连【Direct部分】，境外用户可以使用。
+
 [XXAI官方网址](https://xx-ai.co?invite_code=52caX3zz)
 > #### 服务信息
 >
@@ -89,5 +90,7 @@
 | **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
 
 **双十一优惠活动**
+
 月付套餐8折      优惠码：DOUBLE11
+
 流量套餐85折     优惠码：XXAIup
