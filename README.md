@@ -82,12 +82,12 @@
 
 | 套餐             | 价格 (Monthly / Yearly) | 流量          | 设备限制 | 速度限制        | 特点                                    | 节点数量 |
 |------------------|----------------------------|----------------------|--------------|--------------------|---------------------------------------------|-------|
-| **Basic**        | ¥16.9 / 月 (Yearly: ¥159.90) | 100GB per month     | 3 devices    | 100Mbps           | Netflix, Disney+, HBO, YouTube Premium      | 28    |
-| **Standard**     | ¥39.9 / 月 (Yearly: ¥339.90) | 300GB per month     | 6 devices    | 300Mbps           | OpenAI ChatGPT, Google Bard, Midjourney     | 65    |
-| **Premium**      | ¥99.9 / 月 (Yearly: ¥719.90) | 1000GB per month    | 不限制    | 1000Mbps+         | Netflix, Disney+, OpenAI ChatGPT, Midjourney | 65    |
-| **Flex 200GB**   | ¥99 / 永久                  | 200GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
-| **Flex 500GB**   | ¥239 / 永久                 | 500GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
-| **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Basic**        | ¥16.9 / 月 (Yearly: ¥159.90) | 100GB per month     | 3 devices    | 100Mbps           | Netflix, Disney+, HBO, YouTube Premium      |  28  |
+| **Standard**     | ¥39.9 / 月 (Yearly: ¥339.90) | 300GB per month     | 6 devices    | 300Mbps           | OpenAI ChatGPT, Google Bard, Midjourney     |  65  |
+| **Premium**      | ¥99.9 / 月 (Yearly: ¥719.90) | 1000GB per month    | 不限制    | 1000Mbps+         | Netflix, Disney+, OpenAI ChatGPT, Midjourney |  65  |
+| **Flex 200GB**   | ¥99 / 永久                  | 200GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              |  65  |
+| **Flex 500GB**   | ¥239 / 永久                 | 500GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              |  65  |
+| **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | 不限制    | 1000Mbps+         | Includes all Premium features              |  65  |
 
 **双十一优惠活动**
 
