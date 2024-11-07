@@ -37,15 +37,57 @@
 
 ## 翻墙机场推荐
 
-###一、XXAI机场
+### 一、XXAI机场
 
 移动电信联通三线，广港移动 IEPL专线 / 广港电信 IEPL 专线 / 广港联通 IEPL 专线 / 沪日电信 IPLC 专线 / 。总带宽 7Gbps，带宽剩余足够。自研主题，美观不失好用
 高级套餐可使用落地直连【Direct部分】，境外用户可以使用。
+[XXAI官方网址](https://xx-ai.co?invite_code=52caX3zz)
+> # 服务信息
+>
+> - **开业时间**：2024
+> - **老板肉身**：墙外
+> - **入口与出境线路**：广港移动 IEPL专线 / 广港电信 IEPL 专线 / 广港联通 IEPL 专线 / 沪日电信 IPLC 专线 / 
+> - **节点数目**：60+
+>
+> ## 协议
+> - **协议**：SS协议
+> - **UDP**：支持
+>
+> ## 限制
+> - **同时登录 IP 客户端数目**：高级套餐不限制
+> - **ChatGPT/OpenAI 解锁**：部分未解锁，老板在逐步开放优化
+> - **流媒体**：基本支持奈飞和迪士尼+
+>
+> ## 墙外新闻网站屏蔽情况
+> - 无
+>
+> ## SSH 端口屏蔽
+> - **SSH 端口**：22 端口已屏蔽
+>
+> ## 地区
+> - **节点覆盖**：香港、台湾、新加坡、日本、美国、韩国、加拿大、德国、爱尔兰
+> - **落地**：香港 Eons，日本 Akari，新加坡 Akari，台湾Akari，美国，欧洲Misaka
+> - **IPv6 支持情况**：香港、台湾、日本、美国部分节点支持
+>
+> ## 付款方式
+> - 支付宝、微信、USDT
+>
+> ## 其他
+> - **TG 频道**：[xxai官方频道](https://t.me/xxai_official_channel)
+> - **可能中国内地使用**：直连节点可用
+> - **小白一键客户端**：win+mac
+> - **家宽**：有
+> - **面板**：SSboard
+
 | 套餐             | 价格 (Monthly / Yearly) | 流量          | 设备限制 | 速度限制        | 特点                                    | 节点数量 |
 |------------------|----------------------------|----------------------|--------------|--------------------|---------------------------------------------|-------|
 | **Basic**        | ¥16.9 / 月 (Yearly: ¥159.90) | 100GB per month     | 3 devices    | 100Mbps           | Netflix, Disney+, HBO, YouTube Premium      | 28    |
 | **Standard**     | ¥39.9 / 月 (Yearly: ¥339.90) | 300GB per month     | 6 devices    | 300Mbps           | OpenAI ChatGPT, Google Bard, Midjourney     | 65    |
-| **Premium**      | ¥99.9 / 月 (Yearly: ¥719.90) | 1000GB per month    | Unlimited    | 1000Mbps+         | Netflix, Disney+, OpenAI ChatGPT, Midjourney | 65    |
-| **Flex 200GB**   | ¥99 / 永久                  | 200GB total         | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
-| **Flex 500GB**   | ¥239 / 永久                 | 500GB total         | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
-| **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Premium**      | ¥99.9 / 月 (Yearly: ¥719.90) | 1000GB per month    | 不限制    | 1000Mbps+         | Netflix, Disney+, OpenAI ChatGPT, Midjourney | 65    |
+| **Flex 200GB**   | ¥99 / 永久                  | 200GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Flex 500GB**   | ¥239 / 永久                 | 500GB total         | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | 不限制    | 1000Mbps+         | Includes all Premium features              | 65    |
+
+**双十一优惠活动**
+月付套餐8折      优惠码：DOUBLE11
+流量套餐85折     优惠码：XXAIup
