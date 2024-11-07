@@ -34,3 +34,18 @@
 - **Android**：[ClashMetaforAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)、[FLClash](https://github.com/chen08209/FlClash)、[Hiddify](https://github.com/hiddify/hiddify-app)
 - **Linux**：[Shell clash](https://github.com/liyaoxuan/ShellClash)、[Clash For Windows](https://en.clashforwindows.org/download/)、[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_amd64.deb)、[FLClash](https://github.com/chen08209/FlClash)
 - **路由器**：OpenWRT的[OpenClash](https://github.com/vernesong/OpenClash)、[Passwall](https://github.com/xiaorouji/openwrt-passwall/releases)
+
+## 翻墙机场推荐
+
+###一、XXAI机场
+
+移动电信联通三线，广港移动 IEPL专线 / 广港电信 IEPL 专线 / 广港联通 IEPL 专线 / 沪日电信 IPLC 专线 / 。总带宽 7Gbps，带宽剩余足够。自研主题，美观不失好用
+高级套餐可使用落地直连【Direct部分】，境外用户可以使用。
+| 套餐             | 价格 (Monthly / Yearly) | 流量          | 设备限制 | 速度限制        | 特点                                    | 节点数量 |
+|------------------|----------------------------|----------------------|--------------|--------------------|---------------------------------------------|-------|
+| **Basic**        | ¥16.9 / 月 (Yearly: ¥159.90) | 100GB per month     | 3 devices    | 100Mbps           | Netflix, Disney+, HBO, YouTube Premium      | 28    |
+| **Standard**     | ¥39.9 / 月 (Yearly: ¥339.90) | 300GB per month     | 6 devices    | 300Mbps           | OpenAI ChatGPT, Google Bard, Midjourney     | 65    |
+| **Premium**      | ¥99.9 / 月 (Yearly: ¥719.90) | 1000GB per month    | Unlimited    | 1000Mbps+         | Netflix, Disney+, OpenAI ChatGPT, Midjourney | 65    |
+| **Flex 200GB**   | ¥99 / 永久                  | 200GB total         | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Flex 500GB**   | ¥239 / 永久                 | 500GB total         | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
+| **Flex 1000GB**  | ¥489 / 永久                 | 1000GB total        | Unlimited    | 1000Mbps+         | Includes all Premium features              | 65    |
