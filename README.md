@@ -32,5 +32,5 @@
 - **Mac**：[Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party/releases)、[Clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg)、[ClashX](https://github.com/bannedbook/ClashX/releases)，有预算的话可以尝试[Surge](https://nssurge.com/)
 - **iOS**：[小火箭](https://apps.apple.com/us/app/shadowrocket/id932747118)、[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)、[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)，进阶用户可选择[Surge](https://nssurge.com/)
 - **Android**：[ClashMetaforAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)、[FLClash](https://github.com/chen08209/FlClash)、[Hiddify](https://github.com/hiddify/hiddify-app)
-- **Linux**：Shell clash、Clash For Windows、clash-verge-rev、[FLClash](https://github.com/chen08209/FlClash)
+- **Linux**：[Shell clash](https://github.com/liyaoxuan/ShellClash)、[Clash For Windows](https://en.clashforwindows.org/download/)、[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/clash-verge_1.7.7_amd64.deb)、[FLClash](https://github.com/chen08209/FlClash)
 - **路由器**：OpenWRT的[OpenClash](https://github.com/vernesong/OpenClash)、[Passwall](https://github.com/xiaorouji/openwrt-passwall/releases)
